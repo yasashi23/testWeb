@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/srasmedicines2/static/css/main.3c5f630b.chunk.css",
+    "main.js": "/srasmedicines2/static/js/main.6d76c0f5.chunk.js",
+    "main.js.map": "/srasmedicines2/static/js/main.6d76c0f5.chunk.js.map",
+    "runtime-main.js": "/srasmedicines2/static/js/runtime-main.fd25717a.js",
+    "runtime-main.js.map": "/srasmedicines2/static/js/runtime-main.fd25717a.js.map",
+    "static/css/2.8887c2d4.chunk.css": "/srasmedicines2/static/css/2.8887c2d4.chunk.css",
+    "static/js/2.deb8f3ab.chunk.js": "/srasmedicines2/static/js/2.deb8f3ab.chunk.js",
+    "static/js/2.deb8f3ab.chunk.js.map": "/srasmedicines2/static/js/2.deb8f3ab.chunk.js.map",
+    "static/js/3.70089391.chunk.js": "/srasmedicines2/static/js/3.70089391.chunk.js",
+    "static/js/3.70089391.chunk.js.map": "/srasmedicines2/static/js/3.70089391.chunk.js.map",
+    "index.html": "/srasmedicines2/index.html",
+    "static/css/2.8887c2d4.chunk.css.map": "/srasmedicines2/static/css/2.8887c2d4.chunk.css.map",
+    "static/css/main.3c5f630b.chunk.css.map": "/srasmedicines2/static/css/main.3c5f630b.chunk.css.map",
+    "static/js/2.deb8f3ab.chunk.js.LICENSE.txt": "/srasmedicines2/static/js/2.deb8f3ab.chunk.js.LICENSE.txt",
+    "static/media/SthultaHari.f85fa46e.jpg": "/srasmedicines2/static/media/SthultaHari.f85fa46e.jpg",
+    "static/media/ayurvedic-ingredients.328e3b5e.svg": "/srasmedicines2/static/media/ayurvedic-ingredients.328e3b5e.svg",
+    "static/media/conceiveN.c4620041.jpg": "/srasmedicines2/static/media/conceiveN.c4620041.jpg",
+    "static/media/navbarS.css": "/srasmedicines2/static/media/leafs.4970cfae.png",
+    "static/media/logo_dark.66ace7b0.svg": "/srasmedicines2/static/media/logo_dark.66ace7b0.svg",
+    "static/media/slider-styles.css": "/srasmedicines2/static/media/next.7eaf8cd0.svg",
+    "static/media/spermforte.5fe7cfa7.jpg": "/srasmedicines2/static/media/spermforte.5fe7cfa7.jpg",
+    "static/media/srasMedicines.c3780b94.jpg": "/srasmedicines2/static/media/srasMedicines.c3780b94.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd25717a.js",
+    "static/css/2.8887c2d4.chunk.css",
+    "static/js/2.deb8f3ab.chunk.js",
+    "static/css/main.3c5f630b.chunk.css",
+    "static/js/main.6d76c0f5.chunk.js"
+  ]
+}
